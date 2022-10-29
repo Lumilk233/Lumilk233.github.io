@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>屑荧の小站</title>
+  
+  <subtitle>世界...遗忘我</subtitle>
+  <link href="https://blog.lumine233.ml/atom.xml" rel="self"/>
+  
+  <link href="https://blog.lumine233.ml/"/>
+  <updated>2022-10-11T15:23:16.000Z</updated>
+  <id>https://blog.lumine233.ml/</id>
+  
+  <author>
+    <name>Lumine&#39;blog</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NovelAI 官方前后端部署教程</title>
+    <link href="https://blog.lumine233.ml/article/NovelAI-Leak.html"/>
+    <id>https://blog.lumine233.ml/article/NovelAI-Leak.html</id>
+    <published>2022-10-09T05:45:00.000Z</published>
+    <updated>2022-10-11T15:23:16.000Z</updated>
+    
+    
+    <summary type="html">NovelAI近期泄露 Webui版本的效果并没有网络版的好 但是Docker版的效果基本复刻了网络版NovelAI的效果 (对于原始教程重新梳理和排版</summary>
+    
+    
+    
+    <category term="科技" scheme="https://blog.lumine233.ml/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    <category term="转载" scheme="https://blog.lumine233.ml/categories/%E7%A7%91%E6%8A%80/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+    <category term="AI" scheme="https://blog.lumine233.ml/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于我是如何修复谷歌账户手机号无法验证的问题的</title>
+    <link href="https://blog.lumine233.ml/article/Fix-Google-Account-Unverifiable.html"/>
+    <id>https://blog.lumine233.ml/article/Fix-Google-Account-Unverifiable.html</id>
+    <published>2022-08-18T19:00:00.000Z</published>
+    <updated>2022-08-18T19:00:00.000Z</updated>
+    
+    
+    <summary type="html">最近我在注册一个新的Google账户的时候 碰到了此电话号码无法用于验证的问题 也尝试过网络上的解决方案 比如更改浏览器语言什么的 但是还是提示无法验证</summary>
+    
+    
+    
+    <category term="科技" scheme="https://blog.lumine233.ml/categories/%E7%A7%91%E6%8A%80/"/>
+    
+    
+    <category term="Google" scheme="https://blog.lumine233.ml/tags/Google/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【转载备份】米哈游员工手册</title>
+    <link href="https://blog.lumine233.ml/article/Backup-miHoYo-Handbook.html"/>
+    <id>https://blog.lumine233.ml/article/Backup-miHoYo-Handbook.html</id>
+    <published>2022-08-13T00:00:00.000Z</published>
+    <updated>2022-08-08T00:00:00.000Z</updated>
+    
+    
+    <summary type="html">来源：Bilibili https://space.bilibili.com/157554701 Violet-紫色闪电 本文仅作备份 米哈游是天堂，搞不好也是地狱 miHoYo是一个有着独特文化、理念以及做事行为喜好倾向的地方。尽曾这么听起来显得很不“专业”。相信在很多其他公司入职后会有人告诉你，公司大了，要学着与那些你不喜欢的人也能合作。</summary>
+    
+    
+    
+    <category term="转载" scheme="https://blog.lumine233.ml/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+    <category term="miHoYo" scheme="https://blog.lumine233.ml/tags/miHoYo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于部署Onedrive-Vercel-Index的那些事</title>
+    <link href="https://blog.lumine233.ml/article/about-deploy-ovi.html"/>
+    <id>https://blog.lumine233.ml/article/about-deploy-ovi.html</id>
+    <published>2022-08-07T16:00:00.000Z</published>
+    <updated>2022-08-07T16:00:00.000Z</updated>
+    
+    
+    <summary type="html">Onedrive-Vercel-Index是一个OneDrive 公共目录索引 - 由 Vercel 与 Next.js 构建。 部署全程免费 配置时间小于15分钟 极快 且支持响应式布局 高度定制化 重要的是，它很漂亮！(●&#39;◡&#39;●)</summary>
+    
+    
+    
+    <category term="Web" scheme="https://blog.lumine233.ml/categories/Web/"/>
+    
+    
+    <category term="Onedrive" scheme="https://blog.lumine233.ml/tags/Onedrive/"/>
+    
+    <category term="Vercel" scheme="https://blog.lumine233.ml/tags/Vercel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>屑荧的艰苦抽卡历程</title>
+    <link href="https://blog.lumine233.ml/article/Fuck-Mihoyo.html"/>
+    <id>https://blog.lumine233.ml/article/Fuck-Mihoyo.html</id>
+    <published>2022-07-28T12:00:00.000Z</published>
+    <updated>2022-08-22T11:05:01.000Z</updated>
+    
+    
+    <summary type="html">屑荧抽卡的记录</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://blog.lumine233.ml/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="原神" scheme="https://blog.lumine233.ml/tags/%E5%8E%9F%E7%A5%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>评论测试</title>
+    <link href="https://blog.lumine233.ml/article/Chat-Test.html"/>
+    <id>https://blog.lumine233.ml/article/Chat-Test.html</id>
+    <published>2022-07-27T18:13:41.000Z</published>
+    <updated>2022-07-27T18:13:41.000Z</updated>
+    
+    
+    <summary type="html">都可以谈，有什么不能谈的</summary>
+    
+    
+    
+    <category term="测试" scheme="https://blog.lumine233.ml/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="test" scheme="https://blog.lumine233.ml/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.lumine233.ml/article/Hello-World.html"/>
+    <id>https://blog.lumine233.ml/article/Hello-World.html</id>
+    <published>2022-07-27T16:00:00.000Z</published>
+    <updated>2022-07-27T18:13:41.000Z</updated>
+    
+    
+    <summary type="html">你好 世界</summary>
+    
+    
+    
+    <category term="测试" scheme="https://blog.lumine233.ml/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="test" scheme="https://blog.lumine233.ml/tags/test/"/>
+    
+  </entry>
+  
+</feed>

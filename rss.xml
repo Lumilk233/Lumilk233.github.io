@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>屑荧の小站</title>
+    <link>https://blog.lumine233.ml/</link>
+    
+    <atom:link href="https://blog.lumine233.ml/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>风带来了故事的种子，时间使之发芽</description>
+    <pubDate>Tue, 11 Oct 2022 15:23:16 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>NovelAI 官方前后端部署教程</title>
+      <link>https://blog.lumine233.ml/article/NovelAI-Leak.html</link>
+      <guid>https://blog.lumine233.ml/article/NovelAI-Leak.html</guid>
+      <pubDate>Sun, 09 Oct 2022 05:45:00 GMT</pubDate>
+      
+      <description>NovelAI近期泄露 Webui版本的效果并没有网络版的好 但是Docker版的效果基本复刻了网络版NovelAI的效果 (对于原始教程重新梳理和排版</description>
+      
+      
+      
+      
+      <category domain="https://blog.lumine233.ml/categories/%E7%A7%91%E6%8A%80/">科技</category>
+      
+      <category domain="https://blog.lumine233.ml/categories/%E7%A7%91%E6%8A%80/%E8%BD%AC%E8%BD%BD/">转载</category>
+      
+      
+      <category domain="https://blog.lumine233.ml/tags/AI/">AI</category>
+      
+      
+      <comments>https://blog.lumine233.ml/article/NovelAI-Leak.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>关于我是如何修复谷歌账户手机号无法验证的问题的</title>
+      <link>https://blog.lumine233.ml/article/Fix-Google-Account-Unverifiable.html</link>
+      <guid>https://blog.lumine233.ml/article/Fix-Google-Account-Unverifiable.html</guid>
+      <pubDate>Thu, 18 Aug 2022 19:00:00 GMT</pubDate>
+      
+      <description>最近我在注册一个新的Google账户的时候 碰到了此电话号码无法用于验证的问题 也尝试过网络上的解决方案 比如更改浏览器语言什么的 但是还是提示无法验证</description>
+      
+      
+      
+      
+      <category domain="https://blog.lumine233.ml/categories/%E7%A7%91%E6%8A%80/">科技</category>
+      
+      
+      <category domain="https://blog.lumine233.ml/tags/Google/">Google</category>
+      
+      
+      <comments>https://blog.lumine233.ml/article/Fix-Google-Account-Unverifiable.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>【转载备份】米哈游员工手册</title>
+      <link>https://blog.lumine233.ml/article/Backup-miHoYo-Handbook.html</link>
+      <guid>https://blog.lumine233.ml/article/Backup-miHoYo-Handbook.html</guid>
+      <pubDate>Sat, 13 Aug 2022 00:00:00 GMT</pubDate>
+      
+      <description>来源：Bilibili https://space.bilibili.com/157554701 Violet-紫色闪电 本文仅作备份 米哈游是天堂，搞不好也是地狱 miHoYo是一个有着独特文化、理念以及做事行为喜好倾向的地方。尽曾这么听起来显得很不“专业”。相信在很多其他公司入职后会有人告诉你，公司大了，要学着与那些你不喜欢的人也能合作。</description>
+      
+      
+      
+      
+      <category domain="https://blog.lumine233.ml/categories/%E8%BD%AC%E8%BD%BD/">转载</category>
+      
+      
+      <category domain="https://blog.lumine233.ml/tags/miHoYo/">miHoYo</category>
+      
+      
+      <comments>https://blog.lumine233.ml/article/Backup-miHoYo-Handbook.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>关于部署Onedrive-Vercel-Index的那些事</title>
+      <link>https://blog.lumine233.ml/article/about-deploy-ovi.html</link>
+      <guid>https://blog.lumine233.ml/article/about-deploy-ovi.html</guid>
+      <pubDate>Sun, 07 Aug 2022 16:00:00 GMT</pubDate>
+      
+      <description>Onedrive-Vercel-Index是一个OneDrive 公共目录索引 - 由 Vercel 与 Next.js 构建。 部署全程免费 配置时间小于15分钟 极快 且支持响应式布局 高度定制化 重要的是，它很漂亮！(●&#39;◡&#39;●)</description>
+      
+      
+      
+      
+      <category domain="https://blog.lumine233.ml/categories/Web/">Web</category>
+      
+      
+      <category domain="https://blog.lumine233.ml/tags/Onedrive/">Onedrive</category>
+      
+      <category domain="https://blog.lumine233.ml/tags/Vercel/">Vercel</category>
+      
+      
+      <comments>https://blog.lumine233.ml/article/about-deploy-ovi.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>屑荧的艰苦抽卡历程</title>
+      <link>https://blog.lumine233.ml/article/Fuck-Mihoyo.html</link>
+      <guid>https://blog.lumine233.ml/article/Fuck-Mihoyo.html</guid>
+      <pubDate>Thu, 28 Jul 2022 12:00:00 GMT</pubDate>
+      
+      <description>屑荧抽卡的记录</description>
+      
+      
+      
+      
+      <category domain="https://blog.lumine233.ml/categories/%E6%B8%B8%E6%88%8F/">游戏</category>
+      
+      
+      <category domain="https://blog.lumine233.ml/tags/%E5%8E%9F%E7%A5%9E/">原神</category>
+      
+      
+      <comments>https://blog.lumine233.ml/article/Fuck-Mihoyo.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>评论测试</title>
+      <link>https://blog.lumine233.ml/article/Chat-Test.html</link>
+      <guid>https://blog.lumine233.ml/article/Chat-Test.html</guid>
+      <pubDate>Wed, 27 Jul 2022 18:13:41 GMT</pubDate>
+      
+      <description>都可以谈，有什么不能谈的</description>
+      
+      
+      
+      
+      <category domain="https://blog.lumine233.ml/categories/%E6%B5%8B%E8%AF%95/">测试</category>
+      
+      
+      <category domain="https://blog.lumine233.ml/tags/test/">test</category>
+      
+      
+      <comments>https://blog.lumine233.ml/article/Chat-Test.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.lumine233.ml/article/Hello-World.html</link>
+      <guid>https://blog.lumine233.ml/article/Hello-World.html</guid>
+      <pubDate>Wed, 27 Jul 2022 16:00:00 GMT</pubDate>
+      
+      <description>你好 世界</description>
+      
+      
+      
+      
+      <category domain="https://blog.lumine233.ml/categories/%E6%B5%8B%E8%AF%95/">测试</category>
+      
+      
+      <category domain="https://blog.lumine233.ml/tags/test/">test</category>
+      
+      
+      <comments>https://blog.lumine233.ml/article/Hello-World.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

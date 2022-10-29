@@ -1,0 +1,9 @@
+# 允许所有用户代理的浏览器爬虫进行访问（爬取数据）
+User-agent: *
+
+# 不允许访问的内容
+ Disallow: /cdn-cgi/
+
+# 站点地图
+Sitemap: https://blog.lumine233.ml/sitemap.xml
+Sitemap: https://blog.lumine233.ml/baidusitemap.xml
